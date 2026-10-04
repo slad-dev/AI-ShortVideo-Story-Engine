@@ -9,6 +9,15 @@
 
 **⚡ 一句话输入，端到端生成即发级短视频全案：黄金3秒钩子 + 人生副本/商业反转剧本 + 16:9纯漫分镜Prompt + 配音与声画对齐施工表 + 抖音/小红书双端发布包！**
 
+<p align="center">
+  <img src="assets/cover.png" width="48%" alt="爆款高转化封面样例" />
+  <img src="assets/demo_preview.gif" width="48%" alt="实测生成视频动态效果演示" />
+</p>
+
+> 🎬 **实测成品视频观看**：本项目包含由本 Skill 完整产出的 3 分钟实战成片（1080P）！  
+> - 仓库内轻量高清版：[assets/demo_story_1080p.mp4](assets/demo_story_1080p.mp4)  
+> - Release 原画级母版下载：[GitHub Release v1.0.0 页面](https://github.com/slad-dev/AI-ShortVideo-Story-Engine/releases/tag/v1.0.0)
+
 [English Documentation](README_EN.md) · [极速上手指南](QUICKSTART.md) · [提 Issue / 反馈](https://github.com/slad-dev/AI-ShortVideo-Story-Engine/issues)
 
 </div>

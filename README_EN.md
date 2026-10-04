@@ -8,6 +8,15 @@
 
 **⚡ Transform one sentence into a production-ready viral short video: Golden 3s hook + dramatic reversal script + 16:9 cinematic cartoon storyboard Prompts + TTS & editing timeline + multi-platform release bundle!**
 
+<p align="center">
+  <img src="assets/cover.png" width="48%" alt="High-CTR Cover Example" />
+  <img src="assets/demo_preview.gif" width="48%" alt="Dynamic Video Demo Preview" />
+</p>
+
+> 🎬 **Watch the full 3-minute demo video**:  
+> - In-repo 1080p video: [assets/demo_story_1080p.mp4](assets/demo_story_1080p.mp4)  
+> - Pristine original master: [GitHub Release v1.0.0](https://github.com/slad-dev/AI-ShortVideo-Story-Engine/releases/tag/v1.0.0)
+
 [中文文档 (Chinese)](README.md) · [Quickstart Guide](QUICKSTART.md) · [Issues & Feedback](https://github.com/slad-dev/AI-ShortVideo-Story-Engine/issues)
 
 </div>
