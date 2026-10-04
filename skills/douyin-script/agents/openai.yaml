@@ -1,0 +1,4 @@
+interface:
+  display_name: "人生副本脚本"
+  short_description: "创作16:9动画人生副本、黄金3秒、完整分镜与剪辑方案"
+  default_prompt: "使用 $douyin-script 创作一个16:9横屏的沉浸式动画人生副本视频。"
